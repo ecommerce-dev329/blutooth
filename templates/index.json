@@ -1,0 +1,1110 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "video_EwAWVM": {
+      "type": "video",
+      "blocks": {
+        "heading_Kcm3Xj": {
+          "type": "heading",
+          "settings": {
+            "title": "",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-2"
+          }
+        },
+        "text_c3jUDT": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "play_button_N4hcrr": {
+          "type": "play-button",
+          "settings": {
+            "text": "Play now",
+            "button_layout": "full",
+            "icon_style": "light"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Kcm3Xj",
+        "text_c3jUDT",
+        "play_button_N4hcrr"
+      ],
+      "disabled": true,
+      "settings": {
+        "video_source": "shopify",
+        "video": "shopify://files/videos/BLU_GUY_GIRL_v5_2.mp4",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "loop": false,
+        "media_aspect_ratio": "landscape_wide_alt",
+        "focal_point": "image_presentation",
+        "text_position": "center_center",
+        "text_position_mobile": "center",
+        "button_background_color": "#ffffff",
+        "color_overlay": "#000000",
+        "color_overlay_text": "#ffffff",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 40,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "slideshow_HHURz4": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_gxKMt9": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/blu_hero_img.webp",
+            "image_mobile": "shopify://shop_images/woman-holding-hat-admiring-clouds-sky.jpg",
+            "focal_point": "right",
+            "mobile_focal_point": "bottom",
+            "media_link": "",
+            "text_position": "flex-start_flex-start",
+            "text_position_mobile": "flex-start_flex-start",
+            "accent": "",
+            "title": "Helping Families Brush Smarter And Smile Longer!",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-1",
+            "subheading": "",
+            "subheading_tag": "h3",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "<p>The BlÜ™ Smart Toothbrush revolutionizes brush time, making great dental hygiene fun for all!</p>",
+            "text_font_class": "fs-body-200",
+            "link_1": "shopify://collections/all",
+            "link_text_1": "SHOW NOW",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#102b26",
+            "button_background_color": "#03a4e3",
+            "button_text_color": "#ffffff",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "slide_tfebwC": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/Cyber_monday_blu.webp",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "media_link": "",
+            "text_position": "center_center",
+            "text_position_mobile": "center_center",
+            "accent": "",
+            "title": "",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-2",
+            "subheading": "",
+            "subheading_tag": "h3",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "",
+            "text_font_class": "fs-body-100",
+            "link_1": "",
+            "link_text_1": "Read more",
+            "button_style_1": "btn--primary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#000000",
+            "color_overlay": "#000000",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "slide_gxKMt9",
+        "slide_tfebwC"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "p {max-width: 285px;}"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 85,
+        "mobile_height": 50,
+        "enable_autoplay": false,
+        "duration_autoplay": 6,
+        "navigation_alignment": "center",
+        "navigation_color_foreground": "#ffffff",
+        "navigation_color_background": "",
+        "navigation_background_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "none"
+      }
+    },
+    "image_hero_tGXp9H": {
+      "type": "image-hero",
+      "blocks": {
+        "accent_wzakHL": {
+          "type": "accent",
+          "settings": {
+            "accent": "BLÜ™"
+          }
+        },
+        "heading_KCn6ax": {
+          "type": "heading",
+          "settings": {
+            "title": "Helping Families Brush Smarter And Smile Longer!",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-1"
+          }
+        },
+        "text_rW88Pz": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The BlÜ™ Smart Toothbrush revolutionizes brush time, making great dental hygiene fun for all!</p>",
+            "text_font_class": "fs-body-200"
+          }
+        },
+        "button_YJBQ8V": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://collections/all",
+            "link_text": "Shop Now",
+            "button_style": "btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "accent_wzakHL",
+        "heading_KCn6ax",
+        "text_rW88Pz",
+        "button_YJBQ8V"
+      ],
+      "custom_css": [
+        "p {max-width: 300px;}"
+      ],
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 80,
+        "mobile_height": 55,
+        "image": "shopify://shop_images/blu_hero_img.webp",
+        "image_mobile": "shopify://shop_images/woman-holding-hat-admiring-clouds-sky.jpg",
+        "focal_point": "bottom",
+        "mobile_focal_point": "image_presentation",
+        "media_link": "",
+        "text_position": "flex-start_flex-start",
+        "text_position_mobile": "center_flex-start",
+        "text_color": "#102b26",
+        "button_background_color": "#102b26",
+        "button_text_color": "#000000",
+        "color_overlay": "#03a4e3",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 6,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "multi_column_zfrchE": {
+      "type": "multi-column",
+      "blocks": {
+        "icon_column_6V6G7q": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 124,
+            "icon_width_mobile": 134,
+            "custom_icon_image": "shopify://shop_images/logo1.png",
+            "accent": "",
+            "heading": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>Take accountability for your family's oral care and smile longer</p>",
+            "text_font_class": "fs-body-200",
+            "text_max_width": 80,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "icon_column_MqtHET": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 190,
+            "icon_width_mobile": 162,
+            "custom_icon_image": "shopify://shop_images/logo3.png",
+            "accent": "",
+            "heading": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>Our brushing coach helps you achieve your oral care goals</p>",
+            "text_font_class": "fs-body-200",
+            "text_max_width": 80,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "icon_column_z86j36": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 100,
+            "icon_width_mobile": 132,
+            "custom_icon_image": "shopify://shop_images/logo2.png",
+            "accent": "",
+            "heading": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>A fun way to connect with your family's oral care habits</p>",
+            "text_font_class": "fs-body-200",
+            "text_max_width": 80,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        },
+        "icon_column_MYRKHC": {
+          "type": "icon_column",
+          "settings": {
+            "icon": "none",
+            "icon_width": 144,
+            "icon_width_mobile": 172,
+            "custom_icon_image": "shopify://shop_images/Tooth_and_keyboard_Image.png",
+            "accent": "",
+            "heading": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>Fully Automated Tooth care solution for your whole family</p>",
+            "text_font_class": "fs-body-200",
+            "text_max_width": 80,
+            "link": "",
+            "link_text": "",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "icon_column_6V6G7q",
+        "icon_column_MqtHET",
+        "icon_column_z86j36",
+        "icon_column_MYRKHC"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "",
+        "heading_tag": "h4",
+        "subheading": "",
+        "heading_font_class": "fs-heading-2-base",
+        "heading_alignment": "center",
+        "content_vertical_alignment": "center",
+        "content_background_padding": "medium",
+        "columns": "4",
+        "column_spacing": 20,
+        "row_spacing": 20,
+        "column_alignment": "center",
+        "enable_slider_mobile": false,
+        "columns_mobile": "1",
+        "column_spacing_mobile": 4,
+        "row_spacing_mobile": 4,
+        "column_alignment_mobile": "center",
+        "background_behind_columns": false,
+        "background_color": "#ffffff",
+        "text_color": "#102b26",
+        "button_background_color": "#000000",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "smart_btn_enable": true,
+        "smart_btn_link": "",
+        "smart_btn_text": "",
+        "smart_btn_style": "btn--primary"
+      }
+    },
+    "image_with_text_cz9xwP": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_C4AHhy": {
+          "type": "heading",
+          "settings": {
+            "title": "BLÜ™ Electric Toothbrush",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-3"
+          }
+        },
+        "subheading_g6Ajer": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Elevate your brushing experience with advanced sonic technology for a superior clean.5 Modes: Clean, Whiten, Polish, Soft, SensitiveSmart App Integration: Track, guide, and improve your routineLong Battery Life: Lasts up to 30 days per chargeThe future of oral care is here. Experience BLÜ™.",
+            "subheading_tag": "h3",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "button_eg3UEy": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://collections/smart-toothbrushes",
+            "link_text": "Shop Now",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_C4AHhy",
+        "subheading_g6Ajer",
+        "button_eg3UEy"
+      ],
+      "settings": {
+        "image_position": "right",
+        "text_alignment": "center",
+        "image": "shopify://shop_images/thumbnail.jpg",
+        "aspect_ratio": "natural",
+        "focal_point": "image_presentation",
+        "image_caption": "",
+        "show_small_image": false,
+        "image_small_aspect_ratio": "square",
+        "image_small_focal_point": "image_presentation",
+        "background_color": "",
+        "text_color": "#102b26",
+        "button_background_color": "#03a4e3",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "image_with_text_pgdmaM": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_HGQiMJ": {
+          "type": "heading",
+          "settings": {
+            "title": "Your Smile, Your Style",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-3"
+          }
+        },
+        "subheading_FaFCWA": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Say goodbye to dull oral care. BLÜ™ offers sleek, smart tools designed to make every routine enjoyable and effective.Advanced Sonic ToothbrushCordless Water FlosserRefreshing Floss & Gum CareUpgrade your oral care game with BLÜ™ — because your smile deserves the best.",
+            "subheading_tag": "h3",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "button_c6NDAL": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://collections/smart-toothbrushes",
+            "link_text": "Shop Now",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HGQiMJ",
+        "subheading_FaFCWA",
+        "button_c6NDAL"
+      ],
+      "settings": {
+        "image_position": "left",
+        "text_alignment": "center",
+        "image": "shopify://shop_images/blu-brush-woman.jpg",
+        "aspect_ratio": "natural",
+        "focal_point": "image_presentation",
+        "image_caption": "",
+        "show_small_image": false,
+        "image_small_aspect_ratio": "square",
+        "image_small_focal_point": "image_presentation",
+        "background_color": "",
+        "text_color": "#102b26",
+        "button_background_color": "#03a4e3",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "shoppable_feature_4Y9aJR": {
+      "type": "shoppable-feature",
+      "blocks": {
+        "hotspot_MEH4Rw": {
+          "type": "hotspot",
+          "settings": {
+            "product_item": "blu-childrens-toothbrush-pink",
+            "horizontal_position": 23,
+            "vertical_position": 41
+          }
+        },
+        "hotspot_VzjGbj": {
+          "type": "hotspot",
+          "settings": {
+            "product_item": "onyx",
+            "horizontal_position": 34,
+            "vertical_position": 48
+          }
+        },
+        "hotspot_8dRhj4": {
+          "type": "hotspot",
+          "settings": {
+            "product_item": "white-rose",
+            "horizontal_position": 65,
+            "vertical_position": 40
+          }
+        },
+        "hotspot_PgJVW6": {
+          "type": "hotspot",
+          "settings": {
+            "product_item": "blu-childrens-toothbrush-blue",
+            "horizontal_position": 76,
+            "vertical_position": 47
+          }
+        }
+      },
+      "block_order": [
+        "hotspot_MEH4Rw",
+        "hotspot_VzjGbj",
+        "hotspot_8dRhj4",
+        "hotspot_PgJVW6"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/practice-sample-of-blu-smart-toothbrush-and-app-white-rose-861657.jpg",
+        "image_position": "left",
+        "image_size": 55,
+        "aspect_ratio": "natural",
+        "heading": "Blu Smart Brushes: Connect and Care for Every Smile",
+        "heading_tag": "h2",
+        "subheading": "<p>Smart Oral Care Solutions for the Whole Family – Track, Brush, and Smile with Confidence</p>",
+        "link": "shopify://pages/smart-toothbrushes",
+        "link_text": "Shop now",
+        "button_style": "btn--primary",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "content_position_desktop": "inside"
+      }
+    },
+    "image_with_text_FrzyC9": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_4XPzEm": {
+          "type": "heading",
+          "settings": {
+            "title": "BLÜ KIDS",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-3"
+          }
+        },
+        "subheading_ybJJea": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "A fun and interactive brushing experience that gets kids excited about brushing!",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "button_EbYgAU": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://collections/kids-smart-toothbrushes",
+            "link_text": "Shop Now",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_4XPzEm",
+        "subheading_ybJJea",
+        "button_EbYgAU"
+      ],
+      "custom_css": [],
+      "settings": {
+        "image_position": "left",
+        "text_alignment": "center",
+        "image": "shopify://shop_images/blu_girl_ipad_brush_cut2.jpg",
+        "aspect_ratio": "natural",
+        "focal_point": "center",
+        "image_caption": "",
+        "show_small_image": false,
+        "image_small_aspect_ratio": "square",
+        "image_small_focal_point": "image_presentation",
+        "background_color": "#e8fb30",
+        "text_color": "#102b26",
+        "button_background_color": "#03a4e3",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "image_compare_EaWGqR": {
+      "type": "image-compare",
+      "blocks": {
+        "image_rtaraa": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/woman-brushes-with-an-electric-toothbrush-in-a-mirror.jpg",
+            "focal_point": "center",
+            "filter_effect": "blur",
+            "filter_amount": 7,
+            "color_overlay": "#031612",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 1,
+            "show_label": true,
+            "text": "Every day with BLÜ...",
+            "text_position": "flex-start_flex-start",
+            "text_color": "#03a4e3",
+            "text_container_color": "rgba(0,0,0,0)"
+          }
+        },
+        "image_VaFqTz": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Sign_up_for_your_free_annual_pass_and_get_ready_to_start_saving_on_your_dental_needs_1.png",
+            "focal_point": "center",
+            "filter_effect": "contrast",
+            "filter_amount": 61,
+            "color_overlay": "rgba(0,0,0,0)",
+            "color_overlay_gradient": "linear-gradient(46deg, rgba(52, 133, 236, 1) 13%, rgba(170, 248, 219, 1) 86%)",
+            "overlay_opacity": 8,
+            "show_label": true,
+            "text": "Bright white teeth!",
+            "text_position": "flex-end_flex-end",
+            "text_color": "#03a4e3",
+            "text_container_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "image_rtaraa",
+        "image_VaFqTz"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".image-compare__label-container {max-width: 200px;}",
+        ".image-compare__label-container-text {font-size: 32px;}"
+      ],
+      "settings": {
+        "image_position": "below",
+        "aspect_ratio": "landscape",
+        "reveal_direction": "horizontal",
+        "image_max_width": 1400,
+        "slider_color": "#03a4e3",
+        "slider_arrows_color": "rgba(0,0,0,0)",
+        "text_alignment": "center",
+        "heading": "BLÜ will always make you smile. Fall in love with BLÜ.",
+        "heading_tag": "h3",
+        "heading_font_class": "fs-heading-3-base",
+        "subheading": "",
+        "link": "shopify://collections",
+        "link_text": "Shop Now",
+        "button_style": "btn--secondary",
+        "enable_animation": true,
+        "divider_style": "solid",
+        "section_padding": "section--vertical-padding-top-only"
+      }
+    },
+    "image_hero_VpGhCb": {
+      "type": "image-hero",
+      "disabled": true,
+      "settings": {
+        "image_aspect": "custom",
+        "desktop_height": 95,
+        "mobile_height": 50,
+        "image": "shopify://shop_images/Features-de.png",
+        "image_mobile": "shopify://shop_images/Features-mo_7456629e-7160-4c72-afbb-59cc3bcd8d54.png",
+        "focal_point": "image_presentation",
+        "mobile_focal_point": "image_presentation",
+        "media_link": "",
+        "text_position": "center_center",
+        "text_position_mobile": "center_center",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#000000",
+        "color_overlay": "#000000",
+        "color_overlay_gradient": "",
+        "overlay_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "section--vertical-padding-none"
+      }
+    },
+    "slideshow_76WVp9": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_MrULnj": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/app_img_new_edit.jpg",
+            "image_mobile": "shopify://shop_images/practice-sample-blu-smart-toothbrush-and-app-onyx-black-753812.jpg",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "top",
+            "media_link": "",
+            "text_position": "flex-end_center",
+            "text_position_mobile": "flex-end_center",
+            "accent": "How The BLÜ App® Works",
+            "title": "The BluLIVE Track",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-display-3",
+            "subheading": "",
+            "subheading_tag": "h3",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "<p><strong>            allows you to brush away the blue from your teeth in real time and takes you back to any missed spots, taking the guesswork out of brushing and ensuring 100% coverage every time.</strong></p>",
+            "text_font_class": "fs-body-100",
+            "link_1": "shopify://pages/smart-toothbrushes",
+            "link_text_1": "Get BLÜ",
+            "button_style_1": "btn--secondary",
+            "link_2": "",
+            "link_text_2": "",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#ffffff",
+            "color_overlay": "rgba(0,0,0,0)",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "slide_4R6XmM": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/App3-desktop.jpg",
+            "image_mobile": "shopify://shop_images/App3-mobile.jpg",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "media_link": "",
+            "text_position": "flex-end_center",
+            "text_position_mobile": "flex-end_center",
+            "accent": "How The BLÜ App® Works",
+            "title": "BluCOACH",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-display-3",
+            "subheading": "",
+            "subheading_tag": "h3",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "<p><strong>suggests brushing modes based on history and brushing habits</strong></p>",
+            "text_font_class": "fs-body-200",
+            "link_1": "shopify://pages/smart-toothbrushes",
+            "link_text_1": "Get BLÜ",
+            "button_style_1": "btn--secondary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--primary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#ffffff",
+            "color_overlay": "rgba(0,0,0,0)",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        },
+        "slide_WyqDYe": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/App2_desktop_aabdc347-0dd1-4522-bbf5-2436ba281881.jpg",
+            "image_mobile": "shopify://shop_images/App2_mobile.jpg",
+            "focal_point": "image_presentation",
+            "mobile_focal_point": "image_presentation",
+            "media_link": "",
+            "text_position": "flex-end_center",
+            "text_position_mobile": "flex-end_center",
+            "accent": "How The BLÜ App® Works",
+            "title": "BluSPOT",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-display-3",
+            "subheading": "",
+            "subheading_tag": "h3",
+            "subheading_font_class": "fs-heading-5-base",
+            "text": "<p><strong>allows you to mark your problem areas in the app and communicate trouble spots with your dental care professional through BluPORTAL</strong></p>",
+            "text_font_class": "fs-body-100",
+            "link_1": "shopify://pages/smart-toothbrushes",
+            "link_text_1": "Get BLÜ",
+            "button_style_1": "btn--secondary",
+            "link_2": "",
+            "link_text_2": "Read more",
+            "button_style_2": "btn--secondary",
+            "text_color": "#ffffff",
+            "button_background_color": "#ffffff",
+            "button_text_color": "#ffffff",
+            "color_overlay": "rgba(0,0,0,0)",
+            "color_overlay_gradient": "",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "slide_MrULnj",
+        "slide_4R6XmM",
+        "slide_WyqDYe"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_aspect": "original",
+        "desktop_height": 75,
+        "mobile_height": 95,
+        "enable_autoplay": false,
+        "duration_autoplay": 6,
+        "navigation_alignment": "center",
+        "navigation_color_foreground": "#ffffff",
+        "navigation_color_background": "#03a4e3",
+        "navigation_background_opacity": 0,
+        "enable_animation": true,
+        "section_padding": "none"
+      }
+    },
+    "image_with_text_wCtjAW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_nQTrj7": {
+          "type": "heading",
+          "settings": {
+            "title": "How The BLÜ App® Works",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-3"
+          }
+        },
+        "subheading_6mReta": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "The BluLIVE Track",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "text_Xx4fb7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>allows you to brush away the blue from your teeth in real time and takes you back to any missed spots, taking the guesswork out of brushing and ensuring 100% coverage every time.</p>",
+            "text_font_class": "fs-body-200"
+          }
+        },
+        "button_FLJeCV": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://pages/smart-toothbrushes",
+            "link_text": "Get BLÜ",
+            "button_style": "btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nQTrj7",
+        "subheading_6mReta",
+        "text_Xx4fb7",
+        "button_FLJeCV"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".image-with-text__content {padding-left: 15%; padding-right: 15%;}"
+      ],
+      "settings": {
+        "image_position": "left",
+        "text_alignment": "center",
+        "image": "shopify://shop_images/app_img_new_a3b1d197-be19-4aee-965f-c785dcdca164.png",
+        "aspect_ratio": "natural",
+        "focal_point": "center",
+        "image_caption": "",
+        "show_small_image": false,
+        "image_small_aspect_ratio": "natural",
+        "image_small_focal_point": "image_presentation",
+        "background_color": "#03a4e3",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "image_with_text_aqWJcV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_CnbtPd": {
+          "type": "heading",
+          "settings": {
+            "title": "How The BLÜ App® Works",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-3"
+          }
+        },
+        "subheading_Gnfw4H": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "BluCOACH",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "text_NMVdrb": {
+          "type": "text",
+          "settings": {
+            "text": "<p>suggests brushing modes based on history and brushing habits</p>",
+            "text_font_class": "fs-body-200"
+          }
+        },
+        "button_8g6AAY": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://pages/smart-toothbrushes",
+            "link_text": "Get BLÜ",
+            "button_style": "btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CnbtPd",
+        "subheading_Gnfw4H",
+        "text_NMVdrb",
+        "button_8g6AAY"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".image-with-text__content {padding-left: 15%; padding-right: 15%;}"
+      ],
+      "settings": {
+        "image_position": "left",
+        "text_alignment": "center",
+        "image": "shopify://shop_images/Blu_f74adc11-fb33-4acc-bc77-774abc8af908.png",
+        "aspect_ratio": "natural",
+        "focal_point": "image_presentation",
+        "image_caption": "",
+        "show_small_image": false,
+        "image_small_aspect_ratio": "square",
+        "image_small_focal_point": "image_presentation",
+        "background_color": "#03a4e3",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "image_with_text_AEH8mX": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_x8Bwib": {
+          "type": "heading",
+          "settings": {
+            "title": "How The BLÜ App® Works",
+            "heading_tag": "h2",
+            "heading_font_class": "fs-heading-display-3"
+          }
+        },
+        "subheading_fDtr8b": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "BluSPOT",
+            "subheading_tag": "h4",
+            "subheading_font_class": "fs-heading-5-base"
+          }
+        },
+        "text_DPWBtw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>allows you to mark your problem areas in the app and communicate trouble spots with your dental care professional through BluPORTAL</p>",
+            "text_font_class": "fs-body-100"
+          }
+        },
+        "button_MFwrXT": {
+          "type": "button",
+          "settings": {
+            "link": "shopify://pages/smart-toothbrushes",
+            "link_text": "Get BLÜ",
+            "button_style": "btn--secondary"
+          }
+        }
+      },
+      "block_order": [
+        "heading_x8Bwib",
+        "subheading_fDtr8b",
+        "text_DPWBtw",
+        "button_MFwrXT"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".image-with-text__content {padding-left: 15%; padding-right: 15%;}"
+      ],
+      "settings": {
+        "image_position": "left",
+        "text_alignment": "center",
+        "image": "shopify://shop_images/home_slide_3_5be77360-b537-4b0a-bff4-56cfc89a9099.png",
+        "aspect_ratio": "natural",
+        "focal_point": "image_presentation",
+        "image_caption": "",
+        "show_small_image": false,
+        "image_small_aspect_ratio": "square",
+        "image_small_focal_point": "image_presentation",
+        "background_color": "#03a4e3",
+        "text_color": "#ffffff",
+        "button_background_color": "#ffffff",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "multi_column_yHQxr6": {
+      "type": "multi-column",
+      "blocks": {
+        "image_column_wKfW7V": {
+          "type": "image_column",
+          "settings": {
+            "image": "shopify://shop_images/blu-all-brushes.png",
+            "image_width": 100,
+            "aspect_ratio": "natural",
+            "enable_image_crop_circle": false,
+            "focal_point": "center",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>Order Blu for You, <br/> Or the Whole Family!</p>",
+            "text_font_class": "fs-body-200",
+            "text_max_width": 83,
+            "link": "shopify://pages/smart-toothbrushes",
+            "link_text": "Get BLÜ",
+            "button_style": "btn--primary"
+          }
+        },
+        "image_column_y8cxtc": {
+          "type": "image_column",
+          "settings": {
+            "image": "shopify://shop_images/connect-edit-png.jpg",
+            "image_width": 100,
+            "aspect_ratio": "natural",
+            "enable_image_crop_circle": false,
+            "focal_point": "center",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>Connect Your Brushes With BluApp®</p>",
+            "text_font_class": "fs-body-200",
+            "text_max_width": 100,
+            "link": "shopify://pages/smart-toothbrushes",
+            "link_text": "Get BLÜ",
+            "button_style": "btn--primary"
+          }
+        },
+        "image_column_4D3rwY": {
+          "type": "image_column",
+          "settings": {
+            "image": "shopify://shop_images/start-brushing-edit.png",
+            "image_width": 100,
+            "aspect_ratio": "natural",
+            "enable_image_crop_circle": false,
+            "focal_point": "center",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>Enter Your Brush Settings & Start Brushing</p>",
+            "text_font_class": "fs-body-200",
+            "text_max_width": 100,
+            "link": "shopify://pages/smart-toothbrushes",
+            "link_text": "Get BLÜ",
+            "button_style": "btn--primary"
+          }
+        },
+        "image_column_AEFhCe": {
+          "type": "image_column",
+          "settings": {
+            "image": "shopify://shop_images/blu_fam_edit.png",
+            "image_width": 100,
+            "aspect_ratio": "natural",
+            "enable_image_crop_circle": false,
+            "focal_point": "center",
+            "image_position": "above_text",
+            "image_link": "",
+            "small_caption": "",
+            "accent": "",
+            "heading": "",
+            "heading_tag": "h3",
+            "heading_font_class": "fs-heading-4-base",
+            "text": "<p>Start Receiving Brush Notificiations For Your Family</p>",
+            "text_font_class": "fs-body-200",
+            "text_max_width": 100,
+            "link": "shopify://pages/smart-toothbrushes",
+            "link_text": "Get BLÜ",
+            "button_style": "btn--primary"
+          }
+        }
+      },
+      "block_order": [
+        "image_column_wKfW7V",
+        "image_column_y8cxtc",
+        "image_column_4D3rwY",
+        "image_column_AEFhCe"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "Get Started With BLÜ",
+        "heading_tag": "h2",
+        "subheading": "",
+        "heading_font_class": "fs-heading-3-base",
+        "heading_alignment": "center",
+        "content_vertical_alignment": "center",
+        "content_background_padding": "medium",
+        "columns": "4",
+        "column_spacing": 28,
+        "row_spacing": 28,
+        "column_alignment": "center",
+        "enable_slider_mobile": false,
+        "columns_mobile": "1",
+        "column_spacing_mobile": 20,
+        "row_spacing_mobile": 20,
+        "column_alignment_mobile": "center",
+        "background_behind_columns": false,
+        "background_color": "",
+        "text_color": "#102b26",
+        "button_background_color": "#03a4e3",
+        "button_text_color": "#ffffff",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom",
+        "smart_btn_enable": true,
+        "smart_btn_link": "shopify://collections/smart-toothbrushes",
+        "smart_btn_text": "Get BLÜ",
+        "smart_btn_style": "btn--primary"
+      }
+    }
+  },
+  "order": [
+    "video_EwAWVM",
+    "slideshow_HHURz4",
+    "image_hero_tGXp9H",
+    "multi_column_zfrchE",
+    "image_with_text_cz9xwP",
+    "image_with_text_pgdmaM",
+    "shoppable_feature_4Y9aJR",
+    "image_with_text_FrzyC9",
+    "image_compare_EaWGqR",
+    "image_hero_VpGhCb",
+    "slideshow_76WVp9",
+    "image_with_text_wCtjAW",
+    "image_with_text_aqWJcV",
+    "image_with_text_AEH8mX",
+    "multi_column_yHQxr6"
+  ]
+}

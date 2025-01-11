@@ -1,0 +1,213 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-product--default",
+      "blocks": {
+        "judge_me_reviews_preview_badge_GxxdMb": {
+          "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        },
+        "product_header": {
+          "type": "product_header",
+          "settings": {
+            "show_divider": true,
+            "show_vendor": true,
+            "show_sku": true,
+            "show_discount": true,
+            "discount_format": "percent_off",
+            "show_product_rating": false,
+            "show_sale_badge": true,
+            "show_custom_badges": true
+          }
+        },
+        "information_popup_9JxhBH": {
+          "type": "information_popup",
+          "settings": {
+            "popup_icon": "none",
+            "popup_text": "Size guide",
+            "popup_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+            "show_labels": true
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "enable_sticky_atc_bar_desktop": true,
+            "enable_sticky_atc_bar_mobile": true,
+            "divider_width": "none"
+          }
+        },
+        "complementary_products": {
+          "type": "featured_products",
+          "settings": {
+            "heading": "Customers also love",
+            "heading_tag": "h3",
+            "column_placement": "left",
+            "max_products": 3,
+            "product_source": "custom-product-list",
+            "product_list": [],
+            "enable_swiper_mobile": true,
+            "display_as_collapsible_row": true,
+            "expand_by_default": true
+          }
+        },
+        "description_3KEDWT": {
+          "type": "description",
+          "disabled": true,
+          "settings": {
+            "title": "Description",
+            "title_tag": "h3",
+            "text_font_class": "fs-body-100",
+            "column_placement": "right",
+            "display_as_collapsible_row": true,
+            "expand_by_default": false
+          }
+        },
+        "accordion_mCWzJK": {
+          "type": "accordion",
+          "settings": {
+            "expand_by_default": true,
+            "column_placement": "right",
+            "heading": "Description",
+            "heading_tag": "h4",
+            "content": "<p> </p>{{ product.description }}<p>BLU Kids smart toothbrush heads are easy to replace and use. A 3-month replacement is recommended due to the accumulation of germs and bristles wear out. Sign up to our brush head subscription program and get a new brush head delivered to you at the convenience of your home.</p><ul><li>Made of  DUPONT 32 clusters antibacterial bristles of, safe to clean your mouth and effectively care of the gums. <br/></li><li>Reminder Blue Bristles Fade when its time for Brush Head Replacement,</li><li>Dentists suggest replacing the brush head every three months.</li></ul>",
+            "page_for_content": "",
+            "custom_liquid": ""
+          }
+        },
+        "accordion_MAj9TD": {
+          "type": "accordion",
+          "settings": {
+            "expand_by_default": false,
+            "column_placement": "right",
+            "heading": "Innovations",
+            "heading_tag": "h4",
+            "content": "<p>We believe in transforming everyday routines into extraordinary experiences. Our innovations are designed to make oral care smarter, easier, and more effective for everyone.</p><ul><li><strong>Smart Technology:</strong> BLÜ toothbrushes connect seamlessly to our app, offering real-time brushing guidance and personalized coaching for better oral health.</li><li><strong>Customizable Modes:</strong> With multiple brushing modes like Clean, Whitening, and Sensitive, every family member can find their perfect fit.</li><li><strong>Interactive Brushing for Kids:</strong> Our BLÜ Kids Toothbrush makes oral care fun and engaging, helping children build lifelong healthy habits.</li><li><strong>Data-Driven Care:</strong> The BLÜ app tracks your brushing patterns, provides progress reports, and even shares insights with your dentist for a more tailored approach to oral health.</li><li><strong>Sustainability in Design:</strong> BLÜ is committed to eco-friendly practices, creating durable products that reduce waste without compromising performance.</li></ul>",
+            "page_for_content": "",
+            "custom_liquid": ""
+          }
+        },
+        "accordion_xyF97B": {
+          "type": "accordion",
+          "settings": {
+            "expand_by_default": false,
+            "column_placement": "right",
+            "heading": "How to use it",
+            "heading_tag": "h4",
+            "content": "<p>1. Get It Charged Up:</p><p>•  Plug it in and let it fully charge before you start. </p><p>•  The light will tell you when it's good to go.</p><p><br/>  2. Sync It to the App:<br/>•  Grab the BLU App from the App Store or Google Play.<br/>•  Open the app and pair it with your toothbrush in just a few taps.</p><p><br/>3. Pick Your Mode:<br/>• Choose the mode you're feeling—Clean, Whitening, Sensitive, or Gum Care. The app can help you decide, too.</p><p><br/>4.Brush Like a Pro:<br/>•  Put a dab of toothpaste on the brush head.<br/>•  Hold it at an angle to your gums, hit the button, and let it work its magic.<br/>•  Follow the app for tips to cover every spot perfectly.</p><p><br/>5. Check Your Brushing Game:<br/>• Once you're done, pop into the app to see how well you did. It tracks everything, so you're always on top of it.</p><p><br/>6.Keep It Fresh:<br/>•  Rinse off the brush head after every use and swap it out every 3 months.<br/>•  Keep it on the charger, so it's always ready when you need it.</p><p><br/>7.Make It a Family Thing:<br/>•   For the kids, the BLU Kids Toothbrush makes brushing fun. Track their progress in the app and give them a high-five when they nail it!</p><p><br/>With BLU, brushing's a breeze, and you'll have the brightest smiles on the block!</p>",
+            "page_for_content": "",
+            "custom_liquid": ""
+          }
+        },
+        "accordion_ktttJT": {
+          "type": "accordion",
+          "settings": {
+            "expand_by_default": false,
+            "column_placement": "right",
+            "heading": "Product Care",
+            "heading_tag": "h4",
+            "content": "<p>Rinse After Use:<br/><br/>Rinse the brush head and handle after each use to keep it clean.<br/>Change the Brush Head:<br/><br/>Replace the brush head every 3 months or when the bristles look worn.<br/>Keep It Charged:<br/><br/>Place it on the charging dock after use so it’s always ready.<br/>Store Safely:<br/><br/>Keep your toothbrush in a dry place and use a travel case when on the go.<br/>Clean the Dock:<br/><br/>Wipe the charging dock with a soft, dry cloth when needed.<br/>Handle with Care:<br/><br/>Avoid dropping your toothbrush or exposing it to extreme temperatures.</p>",
+            "page_for_content": "",
+            "custom_liquid": ""
+          }
+        },
+        "accordion_Jgkrhz": {
+          "type": "accordion",
+          "settings": {
+            "expand_by_default": false,
+            "column_placement": "right",
+            "heading": "Pairs well with",
+            "heading_tag": "h4",
+            "content": "",
+            "page_for_content": "app",
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_preview_badge_GxxdMb",
+        "product_header",
+        "information_popup_9JxhBH",
+        "quantity_selector",
+        "buy_buttons",
+        "complementary_products",
+        "description_3KEDWT",
+        "accordion_mCWzJK",
+        "accordion_MAj9TD",
+        "accordion_xyF97B",
+        "accordion_ktttJT",
+        "accordion_Jgkrhz"
+      ],
+      "settings": {
+        "enable_sticky_product_details": true,
+        "show_breadcrumbs": true,
+        "show_navigation_buttons": true,
+        "show_featured_media_first": true,
+        "gallery_style": "thumbnails",
+        "gallery_style_mobile": "carousel",
+        "gallery_size": "medium",
+        "gallery_overflow": "1",
+        "enable_video_looping": true,
+        "enable_product_lightbox": true,
+        "image_aspect_ratio": "natural",
+        "enable_multiple_variant_media": true,
+        "enable_mobile_carousel_looping": true,
+        "show_mobile_carousel_images_full_width": true,
+        "hide_mobile_carousel_dots": true,
+        "enable_gift_card_recipient": true,
+        "enable_animation": true
+      }
+    },
+    "17331129651cdbe435": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_QmYJ4h": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_QmYJ4h"
+      ],
+      "settings": {
+        "heading": "Customer Reviews",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    },
+    "recommendations": {
+      "type": "recommended-products",
+      "settings": {
+        "title": "RELATED ITEMS",
+        "subheading": "",
+        "maximum_products": 4,
+        "columns": "3",
+        "mobile_columns": "1",
+        "enable_animation": true,
+        "divider_style": "none",
+        "section_padding": "section--vertical-padding-top-bottom"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "17331129651cdbe435",
+    "recommendations"
+  ]
+}
